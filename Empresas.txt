@@ -1,0 +1,3 @@
+DHL;595777;Cra100;[Aereo, Ferreo]
+Envia;595777;Cra1001;[Aereo]
+Fedex;595777;Cra200;[Maritimo, Aereo]
